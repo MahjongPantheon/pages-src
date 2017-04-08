@@ -1,0 +1,20 @@
+menu:
+  主页: /
+  归档: /archives
+
+logo: XXX
+
+more:
+  About: /about/
+  Github: https://github.com/MahjongPantheon/
+  Issue tracker: https://pantheon.myjetbrains.com/youtrack/issues
+
+about:
+  title: Mahjong Pantheon
+  link: https://github.com/MahjongPantheon
+
+disqus_shortname:
+
+excerpt_num: 120
+
+footer_info: © Pantheon dream team 2016-2017
