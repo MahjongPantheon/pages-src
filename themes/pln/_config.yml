@@ -7,7 +7,7 @@ logo: XXX
 more:
   About: /about/
   Github: https://github.com/MahjongPantheon/
-  Issue tracker: https://pantheon.myjetbrains.com/youtrack/issues
+  Reporting issues: /bugs/
 
 about:
   title: Mahjong Pantheon
