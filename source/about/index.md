@@ -25,4 +25,5 @@ Pantheon dream team and collaborators:
 - [Alexey Lisikhin](https://github.com/Nihisil), Irkutsk, Russia - **brave volunteer web developer**
 - Darya Ilyina, Moscow, Russia - **QA assistant & Moscow club leader**
 - Vitaly Borzonogov, Arkhangelsk, Russia - **QA assistant, Arkhangelsk club leader** (and also honorable first project donator ever :) )
-
+- Maksim Veselov and all **Ivanovo** riichi club fellows, Russia - honorable donators to the project.
+- Want your name to be listed here? **Join now**! :) We need volunteer web developers, QA engineers, tech writers and translators!
