@@ -1,6 +1,6 @@
 ---
 title: About Pantheon
-date: 2017-04-08 22:04:38
+date: 2018-05-23 22:04:38
 ---
 
 Mahjong Pantheon is a set of web-based software tools to automate regular riichi mahjong tournaments & local games.
