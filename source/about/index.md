@@ -45,3 +45,5 @@ Pantheon dream team and collaborators:
 
 ![](http://tesuji-club.ru/wp-content/uploads/Rheda1.png "Personal stats")
 
+<a href="#top">Back to top</a>
+
