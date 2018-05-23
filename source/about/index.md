@@ -39,9 +39,15 @@ Pantheon dream team and collaborators:
 
 ![](/images/Tyr7.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/images/Tyr8.jpg)
 
+<a href="#top">Back to description</a>.
+
 ### Rheda screenshots
 
 ![](/images/Rheda1.png "Personal stats")
+
+![](/images/Rheda2.png "Recent games")
+
+![](/images/Rheda3.png "Rating table")
 
 <a href="#top">Back to description</a>.
 
