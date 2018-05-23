@@ -11,7 +11,7 @@ Mahjong Pantheon is a set of web-based software tools to automate regular riichi
 - **Tyr** is mobile web application, which uses Mimir as its backend to provide online game overview and automated scoring abilities for every player with handheld device.
 - **Rheda** is simple dynamic web frontend to show Mimir's data pretty and conveniently. It includes rating tables, statistics, graphs, last games and also some tournament administration tools (this will change, though) (screenshots).
 
-**Tyr** and **Rheda**  [Screenshots].
+**Tyr** and **Rheda**  [screenshots][].
 
 ### Software stack
 
@@ -31,7 +31,7 @@ Pantheon dream team and collaborators:
 - Maksim Veselov and all **Ivanovo** riichi club fellows, Russia - honorable donators to the project.
 - Want your name to be listed here? **Join now**! :) We need volunteer web developers, QA engineers, tech writers and translators!
 
-### Screenshots [Screenshots] ##
+### Screenshots [screenshots] ##
 
 - **Tyr** 
 
