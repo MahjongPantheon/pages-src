@@ -3,19 +3,21 @@ title: About Pantheon
 date: 2017-04-08 22:04:38
 ---
 
-Mahjong Pantheon is a bunch of web-based software tools to bring some automation to regular riichi mahjong tournaments & local games.
+Mahjong Pantheon is a set of web-based software tools to automate regular riichi mahjong tournaments & local games.
 
 ### Subsystems
 
 - **Mimir** is a specialized backend database which supports JSON-RPC calls for data operations.
 - **Tyr** is mobile web application, which uses Mimir as its backend to provide online game overview and automated scoring abilities for every player with handheld device.
-- **Rheda** is simple dynamic web frontend to show Mimir's data pretty and conveniently. It includes rating tables, statistics, graphs, last games and also some tournament administration tools (this will change, though).
+- **Rheda** is simple dynamic web frontend to show Mimir's data pretty and conveniently. It includes rating tables, statistics, graphs, last games and also some tournament administration tools (this will change, though) (screenshots).
+
+**Tyr** and **Rheda**  [Screenshots].
 
 ### Software stack
 
 All Pantheon tools are supposed to be web-based applications, which run either in browser or on a server. Tyr is written almost entirely in Typescript, Mimir and Rheda are written in PHP (5.5+). Mimir supports MySQL, PostgreSQL and SQLite databases as its backend.
 
-Installation instructions are still WIP (and so are Docker files for simpler development setup), but it should be pretty easy to install all three subsystems for anyone who is familiar with web development.
+ Production installation instructions are still WIP, but it should be pretty easy to install all three subsystems for anyone who is familiar with web development. Source code and development environment setup instructions are available on [github](https://github.com/MahjongPantheon/pantheon)
 
 ### People
 
@@ -23,7 +25,22 @@ Pantheon dream team and collaborators:
 
 - [Oleg Klimenko](https://github.com/ctizen), Novosibirsk, Russia - **project lead**
 - [Alexey Lisikhin](https://github.com/Nihisil), Irkutsk, Russia - **brave volunteer web developer**
-- Darya Ilyina, Moscow, Russia - **QA assistant & Moscow club leader**
+- [Pavel Bogachev](https://github.com/bogachev-pa), Moscow, Russia - **volunteer developer**
+- Daria Ilina, Moscow, Russia - **QA assistant & Moscow club leader**
 - Vitaly Borzonogov, Arkhangelsk, Russia - **QA assistant, Arkhangelsk club leader** (and also honorable first project donator ever :) )
 - Maksim Veselov and all **Ivanovo** riichi club fellows, Russia - honorable donators to the project.
 - Want your name to be listed here? **Join now**! :) We need volunteer web developers, QA engineers, tech writers and translators!
+
+### Screenshots [Screenshots] ##
+
+- **Tyr** 
+
+![](http://tesuji-club.ru/wp-content/uploads/Tyr1.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://tesuji-club.ru/wp-content/uploads/Tyr2.jpg)
+![](http://tesuji-club.ru/wp-content/uploads/Tyr3.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://tesuji-club.ru/wp-content/uploads/Tyr4.jpg)
+![](http://tesuji-club.ru/wp-content/uploads/Tyr5.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://tesuji-club.ru/wp-content/uploads/Tyr6.jpg)
+![](http://tesuji-club.ru/wp-content/uploads/Tyr7.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://tesuji-club.ru/wp-content/uploads/Tyr8.jpg)
+
+- **Rheda** 
+
+![](http://tesuji-club.ru/wp-content/uploads/Rheda1.png "Personal stats")
+
