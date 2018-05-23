@@ -11,8 +11,6 @@ Mahjong Pantheon is a set of web-based software tools to automate regular riichi
 - **Tyr** is mobile web application, which uses Mimir as its backend to provide online game overview and automated scoring abilities for every player with handheld device. See [screenshots](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/source/about/index.md#tyr-screenshots).
 - **Rheda** is simple dynamic web frontend to show Mimir's data pretty and conveniently. It includes rating tables, statistics, graphs, last games and also some tournament administration tools (this will change, though). See [screenshots](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/source/about/index.md#rheda-screenshots).
 
-**Tyr** and **Rheda**  [screenshots](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/source/about/index.md#screenshots).
-
 ### Software stack
 
 All Pantheon tools are supposed to be web-based applications, which run either in browser or on a server. Tyr is written almost entirely in Typescript, Mimir and Rheda are written in PHP (5.5+). Mimir supports MySQL, PostgreSQL and SQLite databases as its backend.
@@ -33,17 +31,17 @@ Pantheon dream team and collaborators:
 
 ### Tyr screenshots
 
-![](http://tesuji-club.ru/wp-content/uploads/Tyr1.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://tesuji-club.ru/wp-content/uploads/Tyr2.jpg)
+![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr1.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr2.jpg)
 
-![](http://tesuji-club.ru/wp-content/uploads/Tyr3.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://tesuji-club.ru/wp-content/uploads/Tyr4.jpg)
+![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr3.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr4.jpg)
 
-![](http://tesuji-club.ru/wp-content/uploads/Tyr5.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://tesuji-club.ru/wp-content/uploads/Tyr6.jpg)
+![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr5.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr6.jpg)
 
-![](http://tesuji-club.ru/wp-content/uploads/Tyr7.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://tesuji-club.ru/wp-content/uploads/Tyr8.jpg)
+![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr7.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr8.jpg)
 
 ### Rheda screenshots
 
 ![](http://tesuji-club.ru/wp-content/uploads/Rheda1.png "Personal stats")
 
-<a href="#top">Back to top</a>
+<a href="#top">Back to description</a>.
 
