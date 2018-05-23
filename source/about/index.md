@@ -8,8 +8,8 @@ Mahjong Pantheon is a set of web-based software tools to automate regular riichi
 ### Subsystems
 
 - **Mimir** is a specialized backend database which supports JSON-RPC calls for data operations.
-- **Tyr** is mobile web application, which uses Mimir as its backend to provide online game overview and automated scoring abilities for every player with handheld device. See [screenshots](#tyr-screenshots).
-- **Rheda** is simple dynamic web frontend to show Mimir's data pretty and conveniently. It includes rating tables, statistics, graphs, last games and also some tournament administration tools (this will change, though). See [screenshots](#rheda-screenshots).
+- **Tyr** is mobile web application, which uses Mimir as its backend to provide online game overview and automated scoring abilities for every player with handheld device. See [screenshots](#Tyr-screenshots).
+- **Rheda** is simple dynamic web frontend to show Mimir's data pretty and conveniently. It includes rating tables, statistics, graphs, last games and also some tournament administration tools (this will change, though). See [screenshots](#Rheda-screenshots).
 
 ### Software stack
 
