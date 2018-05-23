@@ -15,7 +15,7 @@ Mahjong Pantheon is a set of web-based software tools to automate regular riichi
 
 All Pantheon tools are supposed to be web-based applications, which run either in browser or on a server. Tyr is written almost entirely in Typescript, Mimir and Rheda are written in PHP (5.5+). Mimir supports MySQL, PostgreSQL and SQLite databases as its backend.
 
- Production installation instructions are still WIP, but it should be pretty easy to install all three subsystems for anyone who is familiar with web development. Source code and development environment setup instructions are available on [github](https://github.com/MahjongPantheon/pantheon)
+ Production installation instructions are still WIP, but it should be pretty easy to install all three subsystems for anyone who is familiar with web development. Source code and development environment setup instructions are available on [github](https://github.com/MahjongPantheon/pantheon).
 
 ### People
 
