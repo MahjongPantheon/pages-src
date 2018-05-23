@@ -21,14 +21,14 @@ All Pantheon tools are supposed to be web-based applications, which run either i
 
 Pantheon dream team and collaborators:
 
-- [Oleg Klimenko](https://github.com/ctizen), Novosibirsk, Russia - **project lead**
+- [Oleg Klimenko](https://github.com/ctizen), Saint-Petersburg, Russia - **project lead**
 - [Alexey Lisikhin](https://github.com/Nihisil), Irkutsk, Russia - **brave volunteer web developer**
 - [Pavel Bogachev](https://github.com/bogachev-pa), Moscow, Russia - **volunteer developer**
 - Daria Ilina, Moscow, Russia - **QA assistant & Moscow club leader**
 - Vitaly Borzonogov, Arkhangelsk, Russia - **QA assistant, Arkhangelsk club leader** (and also honorable first project donator ever :) )
 - Maksim Veselov and all **Ivanovo** riichi club fellows, Russia - honorable donators to the project.
 - Nina Bychkova and all **Novosibirsk** riichi club fellows, Russia - honorable donators to the project.
-- Want your name to be listed here? **Join now**! :) We need volunteer web developers, QA engineers, tech writers and translators!
+- Want your name to be listed here? [**Join now**](mailto:me@ctizen.net)! :) We need volunteer web developers, QA engineers, tech writers and translators! _Make sure to mention Pantheon in email subject line - this will drastically reduce probability of occasionally moving your email into spam folder :)_
 
 ### Tyr screenshots
 
