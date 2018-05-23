@@ -31,17 +31,17 @@ Pantheon dream team and collaborators:
 
 ### Tyr screenshots
 
-![](/images/Tyr1.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr2.jpg)
+![](/images/Tyr1.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/images/Tyr2.jpg)
 
-![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr3.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr4.jpg)
+![](/images/Tyr3.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/images/Tyr4.jpg)
 
-![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr5.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr6.jpg)
+![](/images/Tyr5.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/images/Tyr6.jpg)
 
-![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr7.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr8.jpg)
+![](/images/Tyr7.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/images/Tyr8.jpg)
 
 ### Rheda screenshots
 
-![](http://tesuji-club.ru/wp-content/uploads/Rheda1.png "Personal stats")
+![](/images/Rheda1.png "Personal stats")
 
 <a href="#top">Back to description</a>.
 
