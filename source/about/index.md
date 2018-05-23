@@ -31,13 +31,14 @@ Pantheon dream team and collaborators:
 
 ### Tyr screenshots
 
-![](/images/Tyr1.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/images/Tyr2.jpg)
-
-![](/images/Tyr3.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/images/Tyr4.jpg)
-
-![](/images/Tyr5.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/images/Tyr6.jpg)
-
-![](/images/Tyr7.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/images/Tyr8.jpg)
+ ![](/images/Tyr1.jpg) 
+ ![](/images/Tyr2.jpg) 
+ ![](/images/Tyr3.jpg) 
+ ![](/images/Tyr4.jpg) 
+ ![](/images/Tyr5.jpg) 
+ ![](/images/Tyr6.jpg) 
+ ![](/images/Tyr7.jpg) 
+ ![](/images/Tyr8.jpg) 
 
 <a href="#top">Back to description</a>.
 
