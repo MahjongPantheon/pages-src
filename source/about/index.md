@@ -31,9 +31,7 @@ Pantheon dream team and collaborators:
 - Maksim Veselov and all **Ivanovo** riichi club fellows, Russia - honorable donators to the project.
 - Want your name to be listed here? **Join now**! :) We need volunteer web developers, QA engineers, tech writers and translators!
 
-### Screenshots
-
-- **Tyr** 
+### Tyr screenshots
 
 ![](http://tesuji-club.ru/wp-content/uploads/Tyr1.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://tesuji-club.ru/wp-content/uploads/Tyr2.jpg)
 
@@ -43,7 +41,7 @@ Pantheon dream team and collaborators:
 
 ![](http://tesuji-club.ru/wp-content/uploads/Tyr7.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://tesuji-club.ru/wp-content/uploads/Tyr8.jpg)
 
-- **Rheda** 
+### Rheda screenshots
 
 ![](http://tesuji-club.ru/wp-content/uploads/Rheda1.png "Personal stats")
 
