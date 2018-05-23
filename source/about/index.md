@@ -31,7 +31,7 @@ Pantheon dream team and collaborators:
 
 ### Tyr screenshots
 
-![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr1.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr2.jpg)
+![](/images/Tyr1.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr2.jpg)
 
 ![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr3.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github.com/MahjongPantheon/pages-src/blob/Samhaina-patch-1/images/Tyr4.jpg)
 
