@@ -3,8 +3,15 @@ navbar_brand: false
 menu:
   Home: /
   More details: about/
-  Description: description-en/
-  (RU): description-ru/
+  Description:
+    EN: description-en/
+    RU: description-ru/
+  Local games:
+    EN: host-local-en/
+    RU: host-local-ru/
+  Tournaments:
+    EN: host-tourn-en/
+    RU: host-tourn-ru/
   News: blog/
 rss: /atom.xml
 
