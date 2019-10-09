@@ -3,6 +3,8 @@ navbar_brand: false
 menu:
   Home: /
   More details: about/
+  Description: description-en/
+  (RU): description-ru/
   News: blog/
 rss: /atom.xml
 
