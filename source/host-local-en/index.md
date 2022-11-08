@@ -9,7 +9,7 @@ date: 2019-10-09 23:08:39
 - The system can work in two modes: club games mode and tournament mode. In club games mode there is no timer, no possibility to make automated seatings, but there is a possibility to add a player at any time.
 - Club games rating is based on the sum of the player’s points from all of his games.
 - Uma is 15000/5000 (can be changed).
-- To log in from mobile devices default Pantheon address is used: https://m.mjtop.net 
+- To log in from mobile devices default Pantheon address is used: https://m.riichi.top 
 
 #### 2. Players registration
 - For either tournament or club games administrator should register all players beforehand in the "Add player" page. To add a player to rating use the "Add to current rating" button.

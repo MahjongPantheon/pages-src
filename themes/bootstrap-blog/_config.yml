@@ -27,7 +27,7 @@ widgets:
 #- category
 #- tag
 #- tagcloud
-- archive
+#- archive
 - recent_posts
 #about_widget_content: >
 #  <p>Etiam porta <em>sem malesuada magna</em> mollis euismod.
