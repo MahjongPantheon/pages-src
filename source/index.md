@@ -20,7 +20,7 @@ Mahjong Pantheon is a set of web-based software tools to automate regular riichi
 
 **How does it look like?**
 
-<img src="/images/Tyr2.jpg" title="Mobile client" width="200px" /><img src="/images/Rheda1.png" title="Personal stats" width="200px" />
+<img src="/images/Tyr2.png" title="Mobile client" width="200px" /><img src="/images/Rheda1.png" title="Personal stats" width="200px" />
 <img src="/images/Rheda2.png" title="Recent games" width="200px" /><img src="/images/Rheda3.png" title="Rating table" width="200px" />
 
 Also you may want to check out live links to real tournaments:
@@ -44,4 +44,3 @@ Also you may want to check out live links to real tournaments:
 - [Email directly to lead dev](mailto:me@ctizen.dev)
 - [Facebook of lead dev](https://www.facebook.com/oleg.klimenko.5895)
 - [Telegram support chat (RU)](https://t.me/pantheon_support)
-- [Telegram group chat (RU)](https://t.me/tenhou)
