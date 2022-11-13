@@ -58,6 +58,11 @@ code {
   }
 }
 
+.inline-img img {
+  width: 20px;
+  vertical-align: text-bottom;
+}
+
 /*
  * Masthead for nav
  */
