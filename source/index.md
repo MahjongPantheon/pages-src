@@ -24,8 +24,8 @@ Mahjong Pantheon is a set of web-based software tools to automate regular riichi
 <img src="/images/Rheda2.png" title="Recent games" width="200px" /><img src="/images/Rheda3.png" title="Rating table" width="200px" />
 
 Also you may want to check out live links to real tournaments:
-- [https://r.riichi.top/eid71/stat](https://r.riichi.top/eid71/stat)
-- [https://r.riichi.top/eid71/last](https://r.riichi.top/eid71/last)
+- [https://rating.riichimahjong.org/eid71/stat](https://rating.riichimahjong.org/eid71/stat)
+- [https://rating.riichimahjong.org/eid71/last](https://rating.riichimahjong.org/eid71/last)
 
 **Terms of use**
 
@@ -43,4 +43,5 @@ Also you may want to check out live links to real tournaments:
 **Contacts**
 - [Email directly to lead dev](mailto:me@ctizen.dev)
 - [Facebook of lead dev](https://www.facebook.com/oleg.klimenko.5895)
+- [Discord support chat (EN)](https://discord.gg/U5qBkexfEQ)
 - [Telegram support chat (RU)](https://t.me/pantheon_support)
