@@ -11,14 +11,14 @@ Here and below we use links to primary service which is supported by Pantheon ma
 
 ### Quick start
 
-To participate in rating games and tournaments you are required to [sign up to the system](https://r.riichi.top/signup) once. Confirmation link will be delivered as a message to your e-mail address. After following the link, your account will be activated. Things to remember:
-- Please, do not register twice. If there is an account registered to your e-mail, but you don't remember the password, please use [password recovery page](https://r.riichi.top/passwordRecovery).
+To participate in rating games and tournaments you are required to [sign up to the system](https://manage.riichimahjong.org/profile/signup) once. Confirmation link will be delivered as a message to your e-mail address. After following the link, your account will be activated. Things to remember:
+- Please, do not register twice. If there is an account registered to your e-mail, but you don't remember the password, please use [password recovery page](https://manage.riichimahjong.org/profile/resetPassword).
 - Please, fill your data after account activation to complete your registration. At least we expect your name and surname to be known, so administrators of tournaments and club ratings could find you easily and add to the rating table.
 - If you don't receive an activation link, please ensure that message from Pantheon was not delivered to your spam folder (it happens sometimes). If you can't receive the link by no means, please contact service administrator by [email](mailto:me@ctizen.dev) or [telegram](https://t.me/c_tizen). 
 
 After you've completed the registration, please let tournament/club administrator know about it - then they will add yo to the rating table. **Please register in advance, to avoid losing time registering just before the tournament - administrators will be grateful**.  
 
-To get to the mobile assistant app, use "Open game control app" link in the top menu (on mobile devices it's hidden under menu button). Also you can get directly to the [mobile assistant](https://m.riichi.top) and log in with your mobile device:
+To get to the mobile assistant app, use "Open game control app" link in the top menu (on mobile devices it's hidden under menu button). Also you can get directly to the [mobile assistant](https://assist.riichimahjong.org) and log in with your mobile device:
 
 ![](/images/Tyr1.png)
 
