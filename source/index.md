@@ -18,10 +18,10 @@ Mahjong Pantheon is a set of web-based software tools to automate regular riichi
   - Seating (swiss, random, interval, fixed)
 - Import data from Tenhou.net
 
-**How does it look like?**
+**What does it look like?**
 
-<img src="/images/Tyr2.png" title="Mobile client" width="200px" /><img src="/images/Rheda1.png" title="Personal stats" width="200px" />
-<img src="/images/Rheda2.png" title="Recent games" width="200px" /><img src="/images/Rheda3.png" title="Rating table" width="200px" />
+<img src="/images/Tyr2.png" title="Mobile client" width="200px" /><img src="/images/Sigrun1.png" title="Personal stats" width="200px" />
+<img src="/images/Sigrun2.png" title="Recent games" width="200px" /><img src="/images/Sigrun3.png" title="Rating table" width="200px" />
 
 Also you may want to check out live links to real tournaments:
 - [https://rating.riichimahjong.org/eid71/stat](https://rating.riichimahjong.org/eid71/stat)
@@ -33,10 +33,10 @@ Also you may want to check out live links to real tournaments:
   - Pantheon is free software and can be used without any fee as a standalone installation.
   - Pantheon is open source software. See [our Github repo](https://github.com/MahjongPantheon/pantheon/) for more information.
 - Pantheon as a service:
-  - Pantheon has default installation at riichi.top.
-  - The riichi.top site is supported directly by it's developers team.
+  - Pantheon has default installation at [riichimahjong.org](https://riichimahjong.org).
+  - The riichimahjong.org site is supported directly by it's developers team.
   - Anyone can ask to create new tournament or local rating by contacting Pantheon's developers.
-  - All tournaments and ratings are (and will be) provided for free. Donations are welcomed, though :) 
+  - All tournaments and ratings are (and will be) provided for free. Donations are welcome, though :) 
   - Pantheon collects and uses some of players' personal data, such as name, surname, personal game statistics and tournament results. Every player should agree to pass these data to Pantheon if they want to use it.
   - Pantheon does not track any extra information about user. 
   
